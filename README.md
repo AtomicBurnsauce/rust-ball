@@ -1,11 +1,11 @@
 ## Short Description
-A short description
+[x]A short description
 
 ## Basic Game Loops
-The game loops
+[]The game loops
 
 ## Minimum Viable Product
-MVP
+[]MVP
 
 ## Stretch Goals
-Streeetch
+[]Streeetch
